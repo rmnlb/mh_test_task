@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+
+  &__header {
+    background-color: cadetblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 15px;
+  }
+
+  &__title {
+    color: white;
+    text-transform: uppercase;
+    text-shadow: 0 0 2px grey;
+  }
+}
+
